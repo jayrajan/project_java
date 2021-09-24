@@ -13,11 +13,11 @@ Building a simple currency conversion app using Java
 - The graphical user interface should display the conversion result.
 - The system should have the latest currency exchange rates.
 
-### Prerequisites:
+###  Prerequisites:
 
 *(To be updated)*
 
-### Installation:
+###  Installation:
 
 *(To be updated)*
 
