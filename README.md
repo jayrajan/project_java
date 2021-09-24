@@ -30,7 +30,7 @@ Building a simple currency conversion app using Java
 
 *(To be updated)*
 
-### Contact Information:
+###  Contact Information:
 
 [J Rajan](jrajan@jprtech.co.uk)
 
