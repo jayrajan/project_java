@@ -28,8 +28,7 @@ Building a simple currency conversion app using Java
 
 ### Acknowledgements:
 
-*(To be updated)*
-
+- [hackr.io](https://hackr.io/blog/java-projects)
 
 ### Contact Information:
 [J Rajan](jrajan@jprtech.co.uk)
