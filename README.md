@@ -15,19 +15,19 @@ Building a simple currency conversion app using Java
 
 ### Prerequisites:
 
-*To be updated*
+*(To be updated)*
 
 ### Installation:
 
-*To be updated*
+*(To be updated)*
 
 ### Quick Setup:
 
-*To be updated*
+*(To be updated)*
 
 ### Acknowledgements:
 
-*To be updated*
+*(To be updated)*
 
 ### Contact Information:
 
@@ -35,5 +35,5 @@ Building a simple currency conversion app using Java
 
 ### License Information:
 
-*To be updated*
+*(To be updated)*
 
