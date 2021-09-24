@@ -17,7 +17,8 @@ Building a simple currency conversion app using Java
 
 *(To be updated)*
 
-###  Installation:
+
+###  Installation:
 
 *(To be updated)*
 
