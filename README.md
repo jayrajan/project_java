@@ -2,7 +2,7 @@
 
 ## Introduction ##
 This is a sample project to learn more about Java.
-Building a simple currency conversion app.
+Building a simple currency conversion app using Java
 
 ### Features: ###
 - The graphical interface should be web-based.
@@ -13,14 +13,20 @@ Building a simple currency conversion app.
 
 ### Prerequisites ###
 
+
 ### Installation ###
+
 
 ### Quick Setup ###
 
+
 ### Acknowledgements ###
 
+
 ### Contact Information ####
+
 [J Rajan](jrajan@jprtech.co.uk)
 
 ### License Information ###
+
 
